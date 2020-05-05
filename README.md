@@ -1,24 +1,29 @@
-	This idea was originally brought to light by 2Pi in the video: https://youtu.be/buQUGhM_ufc
-	All of the programs are pulled from the original sources, but don't detect updates. This is to avoid any
-	If you need updates, the original links are below:
+<center>
+  <h1 align="center">modportingpack</h1>
+</center>
 
-	Original Source Links:
-				- Bearded Octo Nemesis 2: https://github.com/tterrag1098/BON2
-				- Luyten: https://github.com/deathmarine/Luyten
-				- MCPMappingViewer: http://bspk.rs/MC/MCPMappingViewer
-				- Eclipse IDE: http://www.eclipse.org
-				- IntelliJ IDE: https://www.jetbrains.com/idea/download/ (HIGHLY RECOMMENDED)
-				- Forge MDKs: https://files.minecraftforge.net
-				- MCP Mappings: http://export.mcpbot.bspk.rs/stable/
+modportingpack (mpp) is an idea that was brought to light thanks to 2Pi from [this video](https://yewtu.be/watch?v=buQUGhM_ufc). <br>
+All of the programs from this are pulled from the **original sources**, however, there's no update detection. <br>
 
-	Due to Oracle switching to a sign-on system for downloading their JDK, I cannot properly
-	pull the necessary JDK from their website. To download, you must go to the official website and login with your Oracle account
-	or create an Oracle account.
-				- JDK: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+I do not claim to own any of the programs that are pulled via this batch file. <br>
+If you need updates to anything downloaded, you can find the original sources below. <br>
+<details>
+   <summary>Sources</summary>
+  
+**⚠️ Due to Oracle switching to a sign-in system, I cannot pull the JDK from their website.** <br>
+To download, you must go to the [official website](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) and login or create an Oracle account. <br>
+- [Bearded Octo Nemesis 2](https://github.com/tterrag1098/BON2)
+- [Luyten](https://github.com/deathmarine/Luyten)
+- [MCPMappingViewer](http://bspk.rs/MC/MCPMappingViewer)
+- [Eclipse IDE](http://www.eclipse.org)
+- [IntelliJ IDE](https://www.jetbrains.com/idea/download/) **(HIGHLY RECOMMENDED)**
+- [Forge MDKs](https://files.minecraftforge.net)
+- [MCP Mappings](http://export.mcpbot.bspk.rs/stable/)   
+</details>
 
-	If you have questions or are stuck feel free to ask in the comments or contact me via my various
-	social medias, I will try to respond to everyone, unless you don't put forth any effort, trust me, it is obvious.
-
-	Discord: https://discord.syns.me
-	Website: https://syns.me
-	Twitter: https://twitter.com/sukasyns
+<details>
+   <summary>Contact Information</summary>
+  
+- discord: uchks
+- x: [@nunchuchks](https://x.com/nunchuchks)
+</details>
