@@ -1,10 +1,12 @@
 	This idea was originally brought to light by 2Pi in the video: https://youtu.be/buQUGhM_ufc
 	All of the programs are pulled from the original sources, but don't detect updates. This is to avoid any
+	redistribution problems. I do not claim to own any of the programs that are acquired via this batch file.
 	If you need updates, the original links are below:
 
 	Original Source Links:
 				- Bearded Octo Nemesis 2: https://github.com/tterrag1098/BON2
 				- Luyten: https://github.com/deathmarine/Luyten
+				- Luyten4Forge: https://github.com/KevinPriv/Luyten4Forge (SEVERELY OUTDATED, HIGHLY RECOMMEND LUYTEN)
 				- MCPMappingViewer: http://bspk.rs/MC/MCPMappingViewer
 				- Eclipse IDE: http://www.eclipse.org
 				- IntelliJ IDE: https://www.jetbrains.com/idea/download/ (HIGHLY RECOMMENDED)
