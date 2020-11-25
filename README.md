@@ -23,4 +23,4 @@
 
 	Discord: https://discord.syns.me
 	Website: https://syns.me
-	Twitter: https://twitter.com/truesyns
+	Twitter: https://twitter.com/goodboysyns
