@@ -21,6 +21,5 @@
 	If you have questions or are stuck feel free to ask in the comments or contact me via my various
 	social medias, I will try to respond to everyone, unless you don't put forth any effort, trust me, it is obvious.
 
-	Discord: https://discord.syns.me
 	Website: https://syns.me
-	Twitter: https://twitter.com/goodboysyns
+	Twitter: https://twitter.com/goodboyqdx
