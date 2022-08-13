@@ -23,7 +23,7 @@ Due to Oracle switching to a sign-on system for downloading their JDK, I cannot 
 To download, you must go to the official website and login with your Oracle account or create an Oracle account.
 - JDK: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html<br>
 
-### Questions / Support
-- Discord: qdx#0001
-- Twitter: [@qdxHimself](https://twitter.com/intent/follow?screen_name=qdxHimself)
-- Email: [jay@iloveemogirls.com](mailto:jay@iloveemogirls.com)
+### Contact Information:
+- discord: device#0001
+- twitter: [@localdevice](https://twitter.com/intent/follow?screen_name=localdevice)
+- email: [git@jasons.faith](mailto:git@jasons.faith)
