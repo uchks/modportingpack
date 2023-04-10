@@ -24,6 +24,6 @@ To download, you must go to the official website and login with your Oracle acco
 - JDK: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html<br>
 
 ### Contact Information:
-- discord: device#0001
-- twitter: [@localdevice](https://twitter.com/intent/follow?screen_name=localdevice)
+- discord: sukarodo#0001
+- mastodon: [@suka@mas.to](https://mas.to/@suka)
 - email: [git@jasons.faith](mailto:git@jasons.faith)
