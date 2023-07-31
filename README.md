@@ -14,11 +14,9 @@ If you need updates to anything downloaded, you can find the original sources be
 To download, you must go to the [official website](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) and login or create an Oracle account. <br>
 - [Bearded Octo Nemesis 2](https://github.com/tterrag1098/BON2)
 - [Luyten](https://github.com/deathmarine/Luyten)
-- [MCPMappingViewer](http://bspk.rs/MC/MCPMappingViewer)
 - [Eclipse IDE](http://www.eclipse.org)
 - [IntelliJ IDE](https://www.jetbrains.com/idea/download/) **(HIGHLY RECOMMENDED)**
 - [Forge MDKs](https://files.minecraftforge.net)
-- [MCP Mappings](http://export.mcpbot.bspk.rs/stable/)   
 </details>
 
 <details>
