@@ -2,6 +2,8 @@
   <h1 align="center">modportingpack</h1>
 </center>
 
+**As of July 31st, 2023, this repository and project are effectively considered useless and becoming archived. MCP Mappings are dead as far as I'm aware. I've removed Luyten4Forge as it's not recommended, and I'm out of the scene right now. Until I get back into it, if I ever do, this will remain dead.**
+
 modportingpack (mpp) is an idea that was brought to light thanks to 2Pi from [this video](https://yewtu.be/watch?v=buQUGhM_ufc). <br>
 All of the programs from this are pulled from the **original sources**, however, there's no update detection. <br>
 
